@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(char **argv, int argc)
+int main( char **argv, int argc ) 
 {
 	fprintf( stdout, "hello world\n" );
 
